@@ -1,0 +1,20 @@
+#palabras{
+    color: var(--ion-color-light-contrast);
+    margin-bottom: 10px;
+}
+.sign-up{
+    padding:50px;
+}
+ion-button {
+    width: 170px;
+}
+@media (min-width: 769px) {
+    form{
+        width: 500px;
+        margin: 50px 10px;
+    }
+    
+}
+h2{
+    color: var(--ion-color-primary-contrast);
+}
